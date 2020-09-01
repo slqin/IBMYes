@@ -1,4 +1,4 @@
-name: Auto Restart IBM Cloud
+name: IBM Cloud Auto Restart
 
 on:
   push:
